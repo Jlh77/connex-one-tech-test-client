@@ -3,14 +3,18 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  max-width: 50%;
+  max-width: 100vh;
+
+  max-height: 100%;
 }
 
 .metrics-box {
   margin: 3rem;
-  padding: 3rem;
-  max-height: 40vh;
+  padding: 1rem;
+  max-height: 100%;
   max-width: 100%;
+
+  min-width: 20rem;
 
   background-color: #3a414e;
 

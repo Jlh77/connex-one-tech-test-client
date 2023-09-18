@@ -5,6 +5,9 @@
   background-color: #302f2f; /* Alternate: #101010 */
   overflow: hidden;
   padding: 20px;
+
+  height: 20vh;
+  min-height: 150px;
 }
 
 .links {
