@@ -1,0 +1,4 @@
+{
+  "serverURI": "http://localhost:8000",
+  "clientSecret": "mysecrettoken"
+}
